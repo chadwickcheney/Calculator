@@ -1,0 +1,38 @@
+/**
+ * Keys enum for user input constants
+ * 
+ * @author Chadwick Cheney
+ *
+ */
+
+public enum Keys {
+	DISPLAY,
+	KEY0,
+	KEY1,
+	KEY2,
+	KEY3,
+	KEY4,
+	KEY5,
+	KEY6,
+	KEY7,
+	KEY8,
+	KEY9,
+	DELETE,
+	DELETEALL,
+	CLEAR,
+	ENTER,
+	MULTIPLICATION,
+	DIVISION,
+	ADDITION,
+	SUBTRACTION,
+	LEFT_PARENTHESIS,
+	RIGHT_PARENTHESIS,
+	DECIMAL,
+	POWER,
+	ROOT,
+	MODULO,
+	PI,
+	NEGATE,
+	LEFT,
+	RIGHT
+}
